@@ -1,0 +1,5 @@
+Name: Maria
+            Age: 18
+            Her Property: 1000.35
+            isMarried: 
+            Her Favourite subject: php 
